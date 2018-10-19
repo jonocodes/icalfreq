@@ -31,11 +31,11 @@ Example output: [sample.log](sample.log)
 
 ## Results
 
-I ran this in October 2018 for a few days and got these preliminary data points:
+I ran this in October 2018 for a week and got these preliminary data points:
 
-* Google Calendar (user1) syncs: 25 hours, 15 hours, 15 hours, 8 hours
-* Google Calendar (user2) syncs: 26 hours, 14 hours, 12 hours, 13 hours
-* Desktop Apple mail: 2 days, 10 minutes (probably only syncs on use, not in background)
-* iPhone Calendar: 1 minute to 3 hours (frequent but unpredictable, maybe due to mobile optimizations)
-* outlook.live.com calendar: never updated
+* Google Calendar: syncs every 11 to 26 hours, averaging 16 hours
+* Desktop Apple mail: 10 minutes to 3 days (probably only syncs on use, not in background)
+* iPhone Calendar: 1 minute to 3 hours
+* outlook.live.com calendar: only synced twice. once at 4 days, once at 8 hours
 * Thunderbird/Lightning, Evolution: every 30 minutes
+
